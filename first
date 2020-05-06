@@ -1,4 +1,41 @@
 <html>
 <head>
+<title>HI welocme to my first Wed page!
+</title>
 </head>
+<body> list of unorderd items:
+<ul>
+<li>item</li>
+<li>Roll no.</li>
+<li>Name</li>
+</ul>
+List of orderd list:
+<ol>
+<li>item</li>
+<li>item</li>
+<li>item</li>
+</ol>
+<img src="p.PNG" hight="30%" width="20%">
+<table>
+<tr>
+<th>Name</th>
+<th>Roll no.</th>
+<th>MO. number</th>
+</tr>
+<tr>
+<td>abhi</td>
+<td>19l075</td>
+<td>1234567894</td>
+</tr>
+<tr>
+<td>abhi</td>
+<td>19l075</td>
+<td>1234567894</td>
+</tr>
+</table>
+<form>
+<input type="number" placeholder="Enetr the your Phone Number" name="name">
+<button>submit!</button>
+</form>
+</body>
 </html>
